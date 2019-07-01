@@ -5,10 +5,10 @@ Framework7 starter app template bundle up by parcel
 
 ### 1. Download this repository
 ```
-git clone https://github.com/guillaumebiton/framework7-parcel-template my-app
+git clone https://github.com/r-hague/Magic8Ball.git .
 ```
 
-Repository will be downloaded into `my-app/` folder
+Repository will be downloaded into current folder
 
 ### 2. Instal dependencies
 
@@ -20,7 +20,7 @@ npm install
 ### 3. Run the app
 
 ```
-PORT=1234 npm start
+npm start
 ```
 
 App will be opened in browser at `http://localhost:1234/`
