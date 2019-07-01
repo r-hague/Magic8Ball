@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "magic-f15e6"
+    "default": "magic-f15e6",
+    "magic": "magic-12c79"
   }
 }
